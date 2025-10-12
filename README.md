@@ -1,4 +1,4 @@
-# Algiritmos ambiciosos
+# Algoritmos Ambiciosos
 
 **Número da Lista**: 3  
 **Conteúdo da Disciplina**: FGA0124 - PROJETO DE ALGORITMOS - T01  
