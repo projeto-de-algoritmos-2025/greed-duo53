@@ -57,21 +57,21 @@ A divisão foi feita da seguinte forma: cada integrante da dupla ficou responsá
 ![Solução](./assets/soluçao881.png)
 
 ## Código
-O código da solução está em [exercício.py](./exercicios/exercício881.py).
+O código da solução está em [exercício.py](https://leetcode.com/problems/pizza-with-3n-slices?envType=problem-list-v2&envId=greedy).
 
-# [Exercício](https://leetcode.com/problems/xxxxx)
+# [Exercício 1388](https://leetcode.com/problems/xxxxx)
 
 
-**Nível:**  Médio (Medium)
+**Nível:**  Díficil 
 
 ## Descrição
-![Descrição](./assets/descrição.png)
+![Descrição](./assets/descrição1388.png)
 
 ## Solução
-![Solução](./assets/solução.png)
+![Solução](./assets/solução1388.png)
 
 ## Código
-O código da solução está em [exercício.py](./exercicios/exercício.py).
+O código da solução está em [exercício.py](./exercicios/exercício1388.py).
 
 # [Exercício](https://leetcode.com/problems/process-restricted-friend-requests?envType=problem-list-v2&envId=graph)
 
