@@ -45,19 +45,19 @@ A divisão foi feita da seguinte forma: cada integrante da dupla ficou responsá
 
 ## Exercícios Resolvidos
 
-# [Exercício](https://leetcode.com/problems/process-restricted-friend-requests?envType=problem-list-v2&envId=graph)
+# [Exercício 881](https://leetcode.com/problems/boats-to-save-people?envType=problem-list-v2&envId=greedy)
 
 
-**Nível:**  Difícil (Hard)
+**Nível:**  Médio 
 
 ## Descrição
-![Descrição](./assets/descrição.png)
+![Descrição](./assets/descriçao881.png)
 
 ## Solução
-![Solução](./assets/solução.png)
+![Solução](./assets/soluçao881.png)
 
 ## Código
-O código da solução está em [exercício.py](./exercicios/exercício.py).
+O código da solução está em [exercício.py](./exercicios/exercício881.py).
 
 # [Exercício](https://leetcode.com/problems/xxxxx)
 
