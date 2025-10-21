@@ -103,4 +103,4 @@ O código da solução está em [exercício1383.py](./exercicios/exercício.py).
 
 Neste vídeo, apresentamos a explicação e a solução dos exercícios escolhidos.
 
-**Link do Vídeo:** [Clique aqui](https://youtu.be/xxxxx) <!-- Substitua pelo link real -->
+**Link do Vídeo:** [Clique aqui](https://youtu.be/njLSp18Zl-E)
